@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Interna.master.cs" Inherits="NetMag.Validation.Web.library.Interna" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>.Net Magazine - O Padrão de Injeção de Dependência</title>        
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="frmDados" runat="server">
+    <div id="wrapper">
+        <div id="header">
+            <div class="title">O Padrão de Injeção de Dependência</div>
+        </div>
+        <ul id="nav">
+            <li><a href="../exemplos/Exemplo01.aspx">Exemplo 1</a></li>
+            <li><a href="../exemplos/Exemplo02.aspx">Exemplo 2</a></li>            
+            <li><a href="../exemplos/Exemplo03.aspx">Exemplo 3</a></li>            
+            <li><a href="../exemplos/Exemplo04.aspx">Exemplo 4</a></li> 
+            <li><a href="../exemplos/Exemplo05.aspx">Exemplo 5</a></li>             
+        </ul>
+        <div id="content" class="clearfix">
+            <div id="col_1">
+                <img src="../library/images/logo_net.jpg" />
+                <br />
+                <h2>
+                <strong>Informações</strong></h2>
+                <ul id="subnav">
+                    <li><a href="../info/Home.aspx">Home</a></li>                    
+                    <li><a href="http://reverb.leandrodaniel.com" target="_blank">Sobre o autor</a></li>
+                    <li><a href="mailto:contato@leandrodaniel.com">Contato</a></li>
+                </ul>
+            </div>
+            <div id="col_2">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <br />
+        <div id="footer">
+            <small>Layout by <a href="http://cssweblayouts.com/" target="_blank">CSS Web Layouts</a></a></small></div>
+    </div>
+    </form>
+</body>
+</html>

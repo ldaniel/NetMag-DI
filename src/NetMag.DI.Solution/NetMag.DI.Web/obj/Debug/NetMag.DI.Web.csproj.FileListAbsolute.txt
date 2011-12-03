@@ -1,0 +1,60 @@
+C:\Users\Leandro\Desktop\Artigo\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\NetMag.DI.Web.dll
+C:\Users\Leandro\Desktop\Artigo\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\NetMag.DI.Web.pdb
+C:\Users\Leandro\Desktop\Artigo\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Leandro\Desktop\Artigo\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Leandro\Desktop\Artigo\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.dll
+C:\Users\Leandro\Desktop\Artigo\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\Leandro\Desktop\Artigo\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\NetMag.DI.Core.dll
+C:\Users\Leandro\Desktop\Artigo\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Leandro\Desktop\Artigo\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.xml
+C:\Users\Leandro\Desktop\Artigo\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.ObjectBuilder2.xml
+C:\Users\Leandro\Desktop\Artigo\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\NetMag.DI.Core.pdb
+C:\Users\Leandro\Desktop\Artigo\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.StaticFactory.xml
+C:\Users\Leandro\Desktop\Artigo\Solution\NetMag.DI.Solution\NetMag.DI.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\Artigo\Solution\NetMag.DI.Solution\NetMag.DI.Web\obj\Debug\NetMag.DI.Web.dll
+C:\Users\Leandro\Desktop\Artigo\Solution\NetMag.DI.Solution\NetMag.DI.Web\obj\Debug\NetMag.DI.Web.pdb
+C:\Documents and Settings\ef0007\Desktop\Solution\NetMag.DI.Solution\NetMag.DI.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ef0007\Desktop\Solution\NetMag.DI.Solution\NetMag.DI.Web\obj\Debug\NetMag.DI.Web.dll
+C:\Documents and Settings\ef0007\Desktop\Solution\NetMag.DI.Solution\NetMag.DI.Web\obj\Debug\NetMag.DI.Web.pdb
+C:\Documents and Settings\ef0007\Desktop\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\NetMag.DI.Web.dll
+C:\Documents and Settings\ef0007\Desktop\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\NetMag.DI.Web.pdb
+C:\Documents and Settings\ef0007\Desktop\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Documents and Settings\ef0007\Desktop\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Documents and Settings\ef0007\Desktop\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.dll
+C:\Documents and Settings\ef0007\Desktop\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Documents and Settings\ef0007\Desktop\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\NetMag.DI.Core.dll
+C:\Documents and Settings\ef0007\Desktop\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Documents and Settings\ef0007\Desktop\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.xml
+C:\Documents and Settings\ef0007\Desktop\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.ObjectBuilder2.xml
+C:\Documents and Settings\ef0007\Desktop\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\NetMag.DI.Core.pdb
+C:\Documents and Settings\ef0007\Desktop\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.StaticFactory.xml
+C:\Users\Leandro\Artigos\Net Magazine\Injeção de dependência com Unity\Codigo fonte\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\NetMag.DI.Web.dll
+C:\Users\Leandro\Artigos\Net Magazine\Injeção de dependência com Unity\Codigo fonte\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\NetMag.DI.Web.pdb
+C:\Users\Leandro\Artigos\Net Magazine\Injeção de dependência com Unity\Codigo fonte\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Leandro\Artigos\Net Magazine\Injeção de dependência com Unity\Codigo fonte\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Leandro\Artigos\Net Magazine\Injeção de dependência com Unity\Codigo fonte\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.dll
+C:\Users\Leandro\Artigos\Net Magazine\Injeção de dependência com Unity\Codigo fonte\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\Leandro\Artigos\Net Magazine\Injeção de dependência com Unity\Codigo fonte\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\NetMag.DI.Core.dll
+C:\Users\Leandro\Artigos\Net Magazine\Injeção de dependência com Unity\Codigo fonte\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Leandro\Artigos\Net Magazine\Injeção de dependência com Unity\Codigo fonte\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.xml
+C:\Users\Leandro\Artigos\Net Magazine\Injeção de dependência com Unity\Codigo fonte\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.ObjectBuilder2.xml
+C:\Users\Leandro\Artigos\Net Magazine\Injeção de dependência com Unity\Codigo fonte\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\NetMag.DI.Core.pdb
+C:\Users\Leandro\Artigos\Net Magazine\Injeção de dependência com Unity\Codigo fonte\Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.StaticFactory.xml
+C:\Users\Leandro\Artigos\Net Magazine\Injeção de dependência com Unity\Codigo fonte\Solution\NetMag.DI.Solution\NetMag.DI.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leandro\Artigos\Net Magazine\Injeção de dependência com Unity\Codigo fonte\Solution\NetMag.DI.Solution\NetMag.DI.Web\obj\Debug\NetMag.DI.Web.dll
+C:\Users\Leandro\Artigos\Net Magazine\Injeção de dependência com Unity\Codigo fonte\Solution\NetMag.DI.Solution\NetMag.DI.Web\obj\Debug\NetMag.DI.Web.pdb
+C:\Users\Leandro\Projetos\NetMag\NetMag.DI.Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\NetMag.DI.Web.dll
+C:\Users\Leandro\Projetos\NetMag\NetMag.DI.Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\NetMag.DI.Web.pdb
+C:\Users\Leandro\Projetos\NetMag\NetMag.DI.Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Leandro\Projetos\NetMag\NetMag.DI.Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Leandro\Projetos\NetMag\NetMag.DI.Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.dll
+C:\Users\Leandro\Projetos\NetMag\NetMag.DI.Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\Leandro\Projetos\NetMag\NetMag.DI.Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\NetMag.DI.Core.dll
+C:\Users\Leandro\Projetos\NetMag\NetMag.DI.Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\NetMag.DI.Core.pdb
+C:\Users\Leandro\Projetos\NetMag\NetMag.DI.Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.ObjectBuilder2.xml
+C:\Users\Leandro\Projetos\NetMag\NetMag.DI.Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.xml
+C:\Users\Leandro\Projetos\NetMag\NetMag.DI.Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Leandro\Projetos\NetMag\NetMag.DI.Solution\NetMag.DI.Solution\NetMag.DI.Web\bin\Microsoft.Practices.Unity.StaticFactory.xml
+C:\Users\Leandro\Projetos\NetMag\NetMag.DI.Solution\NetMag.DI.Solution\NetMag.DI.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leandro\Projetos\NetMag\NetMag.DI.Solution\NetMag.DI.Solution\NetMag.DI.Web\obj\Debug\NetMag.DI.Web.dll
+C:\Users\Leandro\Projetos\NetMag\NetMag.DI.Solution\NetMag.DI.Solution\NetMag.DI.Web\obj\Debug\NetMag.DI.Web.pdb

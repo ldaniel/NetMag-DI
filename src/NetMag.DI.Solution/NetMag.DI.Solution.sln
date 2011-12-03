@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMag.DI.Web", "NetMag.DI.Web\NetMag.DI.Web.csproj", "{04884E18-67BD-42AE-B6C3-158C2C34D2A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMag.DI.Core", "NetMag.DI.Core\NetMag.DI.Core.csproj", "{D2FDF876-5B8B-47E4-A0A2-22E375EA4E70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04884E18-67BD-42AE-B6C3-158C2C34D2A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04884E18-67BD-42AE-B6C3-158C2C34D2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04884E18-67BD-42AE-B6C3-158C2C34D2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04884E18-67BD-42AE-B6C3-158C2C34D2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2FDF876-5B8B-47E4-A0A2-22E375EA4E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FDF876-5B8B-47E4-A0A2-22E375EA4E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FDF876-5B8B-47E4-A0A2-22E375EA4E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FDF876-5B8B-47E4-A0A2-22E375EA4E70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
